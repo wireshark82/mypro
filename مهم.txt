@@ -1,0 +1,9 @@
+1- git init
+2- git config --global user.name ""
+3- git config --global user.email ""
+4- create repositry github
+5-git remote add origin https://github.com/wireshark82/mypro
+6- git add .بعد كل تغيير
+7-git commit -m "first" بعد كل تغيير
+8- git push origin master لرفعها للجيت هاب
+9-
